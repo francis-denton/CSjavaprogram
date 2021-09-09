@@ -3,5 +3,5 @@ class Main {
         int coolNumber=7;  
         System.out.println(coolNumber);
     }
-
+     
 }
